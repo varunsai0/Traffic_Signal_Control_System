@@ -1,0 +1,11 @@
+10,0,10,0,20,0,20,0,1000,1250,false,false,false,false
+30,0,30,0,40,20,40,20,1000,1250,false,false,false,false
+10,30,20,30,55,0,65,0,1000,1250,false,false,false,false
+20,0,30,0,20,55,20,65,1000,1250,true,false,false,false
+0,20,0,30,75,0,65,0,1000,1250,false,false,false,false
+0,0,0,0,0,50,0,50,1000,1250,false,false,true,false
+0,0,0,0,0,30,0,20,1000,1250,false,false,false,false
+0,20,0,30,0,0,0,0,1000,1250,false,false,false,false
+0,0,0,0,0,55,0,55,1000,1250,false,false,false,false
+0,0,0,0,0,0,0,0,1000,1250,false,false,false,false
+1,0,0,0,0,0,0,0,1000,1250,false,false,false,false
